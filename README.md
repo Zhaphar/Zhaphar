@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zhaphar
-- 👀 I’m interested in Java, Python, ML
+- 👀 I’m interested in Go, Java, Python, ML
 - 🌱 I’m currently learning Engineering, TDD, Clean Code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zhaphar@outlook.com
